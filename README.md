@@ -79,6 +79,7 @@ The Logout Page: If a user wants to leave the site, they can click Logout, which
 Thank You Page: When a user registers for an account or submits payment information, the thank-you page will show up.
 
 
+![image](https://user-images.githubusercontent.com/21630334/186752129-8eece2b6-0dcc-43e3-8bef-c84ff0342fed.png)
 
 
 
