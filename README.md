@@ -1,20 +1,20 @@
-# Starbuy
+# Ecommerce site
 E-commerce Site with php, js, jquery, html and css with mysql(phpmyadmin) on xampp(localhost)
 
 Purpose:
-StarBuy is an online store that offers clothing, cosmetics, and perhaps even toys. 
+Our site is an online store that offers clothing, cosmetics, and perhaps even toys. 
 It is geared toward women, men, and even kids, .
 An individual can create an account, submit all their personal data, and log in and out as necessary.
 In addition, administrators have access to a page where they can list products along with their name, description, price, discounted pricing, etc.
-If there are any concerns, there is a contact page where an email will be sent to both the user and StarBuy account.
+If there are any concerns, there is a contact page where an email will be sent to both the user and Our site account.
 As well as a coupon code, many product categories offer a wide selection of goods and savings. The consumer can add more items to the cart and continue to the payment page to purchase the merchandise.
 
 Login:
-StarBuy is an online store that offers clothing, cosmetics, and perhaps even toys. 
+Our site is an online store that offers clothing, cosmetics, and perhaps even toys. 
 It is geared toward women, men, and even kids, .
 An individual can create an account, submit all their personal data, and log in and out as necessary.
 In addition, administrators have access to a page where they can list products along with their name, description, price, discounted pricing, etc.
-If there are any concerns, there is a contact page where an email will be sent to both the user and StarBuy account.
+If there are any concerns, there is a contact page where an email will be sent to both the user and Our site account.
 As well as a coupon code, many product categories offer a wide selection of goods and savings. The consumer can add more items to the cart and continue to the payment page to purchase the merchandise.
 
 Admin:
@@ -31,7 +31,7 @@ Logged as user:
 We have a sign-up page where customers can enter their personal information, such as name, email, phone number, gender, interests, and address in a form in which we are using radio-buttons, checkbox, drop-down features.
 Once a user clicks the "submit" button, all the information is placed into the database table "user,
 When the user has signed up, the login page appears, allowing them to log in using their username and password.
-After logging in, the user is taken to the "STARBUY" homepage.
+After logging in, the user is taken to the "Our site" homepage.
 
 Home Page:
 Header: It contains all the menu choices, including new items, specials, promo codes, and various product options. 
@@ -39,10 +39,10 @@ Center : There is a slideshow with numerous photographs of the products.
 Footer: The site name is located there.
 
 About us:
-The About Us page holds information regarding the STARBUY
+The About Us page holds information regarding the Our site
 
 Contact us:
-By leaving a message, name, email and subject on the contact us page, a user can express a concern to STARBUY, and an automated email will be sent to both Starbuy and the user.
+By leaving a message, name, email and subject on the contact us page, a user can express a concern to Our site, and an automated email will be sent to both Our site and the user.
 
 New Items:
 The New Items page lists newly added items along with their name, price, and image.
@@ -78,8 +78,6 @@ Logout:
 The Logout Page: If a user wants to leave the site, they can click Logout, which will bring up the login page.
 Thank You Page: When a user registers for an account or submits payment information, the thank-you page will show up.
 
-
-![image](https://user-images.githubusercontent.com/21630334/186752129-8eece2b6-0dcc-43e3-8bef-c84ff0342fed.png)
 
 
 
